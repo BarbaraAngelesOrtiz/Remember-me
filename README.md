@@ -56,7 +56,7 @@ Para identificar el error, vas a tener que leerlo en la consola.
 
           Revisa tu código, tenes un bucle infinito. Tenes que checkear la condición de corte de tus bucles.
           
-Importante: No modificar ni el nombre ni los argumetos que reciben las funciones, sólo deben escribir
+    ❗️ Importante: No modificar ni el nombre ni los argumetos que reciben las funciones, sólo deben escribir
 
 # 💡 Recordar utilizar la ruta relativa, no la absoluta para ingestar los datos desde los CSV
 
