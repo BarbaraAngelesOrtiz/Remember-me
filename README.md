@@ -32,8 +32,7 @@ Una vez finalizado, chequea:
 1. Que veas los cambios reflejados en el repo de tu cuenta de github (entrando a tu repo desde el browser.)
 2. Que no haya un require - solo debe haber codigo dentro de las funciones de cada ejercicio
 
- ![image](https://user-images.githubusercontent.com/105976212/221218341-c243b79c-295e-4491-81e6-19f244bf701b.png)
-Atención: no debes realizar un commit después de la hora de entrega porque se anulara la totalidad del examen.
+![R](https://user-images.githubusercontent.com/105976212/221223019-ea769ab1-6f42-4c5b-a39b-748fcf1b88bc.png)Atención: no debes realizar un commit después de la hora de entrega porque se anulara la totalidad del examen.
 
 ## GUIA DE ERRORES COMUNES
 
@@ -50,7 +49,7 @@ Para identificar el error, vas a tener que leerlo en la consola.
           git config --global user.name "Tu usuario de GitHub aca"
           git config --global user.email "Tu email aca"
           
-     b. Ingresa a Github y sigue las instrucciones para configurar tu token.
+     b. Ingresa a ![Github ](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) y sigue las instrucciones para configurar tu token.
      
      c. La consola se tilda en Runs:
 
