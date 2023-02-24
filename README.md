@@ -15,6 +15,7 @@ Una vez clonado, abrir Visual Studio Code,Open Folder, entrá a esa carpeta y em
 
 Tu tarea es completar el código en checkpoint.py de tal forma que pasen la mayoría de los tests. 
 Ejecutar los siguientes comandos:
+
 python tests.py
 
 ### 📌 3. ENTREGAR TU CHECKPOINT
