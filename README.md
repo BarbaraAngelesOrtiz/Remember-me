@@ -22,7 +22,7 @@ Ejecutar los siguientes comandos:
 
 Correr los tests y verificar cuantos pasan. Ten en cuenta que si te aparece "1 failed;1 total" es porque tienes un error de sintaxis: seguramente falta o sobra un corchete, paréntesis, dos puntos, etc. Saca un print de pantalla de tus tests. 
 
-Luego, debes subir un commit a tu repo. Para hacerlo, debes ejecutar el siguiente comando en la Terminal:
+Luego, debes subir un commit a tu repo. Para hacerlo, debes ejecutar el siguiente comando en la Terminal de Visual Studio Code:
 
     git add .
     git commit -m "checkpoint"
