@@ -16,7 +16,7 @@ Una vez clonado, abrir Visual Studio Code,Open Folder, entrá a esa carpeta y em
 Tu tarea es completar el código en checkpoint.py de tal forma que pasen la mayoría de los tests. 
 Ejecutar los siguientes comandos:
 
-python tests.py
+    python tests.py
 
 ### 📌 3. ENTREGAR TU CHECKPOINT
 
@@ -24,9 +24,9 @@ Correr los tests y verificar cuantos pasan. Ten en cuenta que si te aparece "1 f
 
 Luego, debes subir un commit a tu repo. Para hacerlo, debes ejecutar el siguiente comando en la Terminal:
 
-git add .
-git commit -m "checkpoint"
-git push 
+    git add .
+    git commit -m "checkpoint"
+    git push 
 
 Una vez finalizado, chequea:
 
